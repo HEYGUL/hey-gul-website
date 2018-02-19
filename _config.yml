@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Hey, Gul!
+description: Hey, Gul!, your magic phrase to solve your development issues.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://www.hey-gul.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
