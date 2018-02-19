@@ -4,8 +4,9 @@
   width: 100%;
   min-height: 100vh;
   background-size: cover;
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
-  background-image: url('/img/main.jpg');
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.8);
+  background-image: url('/assets/img/main.jpg');
+  background-position: center;
   .particles-js-canvas-el {
     width: 100% !important;
     height: 100vh !important;
