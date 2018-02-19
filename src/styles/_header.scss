@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Handwriting';
+  src: url('/assets/fonts/handwriting.ttf');
+}
+
 #particles-js {
   display: flex;
   vertical-align: bottom;
@@ -30,6 +35,7 @@
   transform: translate(-50%, -50%);
   .site-title {
     font-size: 50px;
+    font-family: 'handwriting';
     display: block;
     line-height: 1;
     color: #fff;
