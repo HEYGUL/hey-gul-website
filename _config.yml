@@ -1,13 +1,11 @@
 # Site settings
 title: Hey, Gul!
 description: Hey, Gul!, your magic phrase to solve your development issues.
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://www.hey-gul.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://www.hey-gul.com"
 
-# User settings
 username: Hey,&nbspGul!
 user_description: 
-user_title: J'ai besoin de toi pour développer des nouvelles fonctionnalités, faire grandir mes pratiques de développement et améliorer la qualité de mon produit !
+user_title: L'incantation à utiliser si vous voulez développer des nouvelles fonctionnalités, faire grandir vos pratiques de développement ou améliorer la qualité de votre produit !
 
 # Google-analytics
 google-analytics:
