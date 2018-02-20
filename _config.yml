@@ -11,6 +11,6 @@ user_title: J'ai besoin de toi pour développer des nouvelles fonctionnalités, 
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-37787733-4"
 
 exclude: ['package.json', 'src' , 'node_modules']
